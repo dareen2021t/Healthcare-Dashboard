@@ -31,7 +31,7 @@ This project presents an interactive Power BI dashboard analyzing hospital reven
 </p>
 
 
-## 🧠 Key Insights
+## Key Insights
 
 * Consultation and operations generate a major portion of revenue
 * Corporate payments contribute significantly to total income
@@ -61,9 +61,9 @@ This dashboard helps stakeholders:
 
 
 
-## 📂 Project Files
+## Project Files
 
-* `Healthcare Dashboard.pbix` → Power BI File
+* `revenue& patient.pbix` → Power BI File
 * Screenshots → Dashboard Preview
 
 -
